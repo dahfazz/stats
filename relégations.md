@@ -41,12 +41,12 @@ Nombre d'années pour y parvenir
 Nombre d'années avant d'être relégué en D3
 - moy: 4 ans
 - max: 16 ans (Chateauroux en 1998)
-- min: 1 an  (Valenciennes en 1992, Grenoble en 2010 et Evian en 2015)
+- min: 1 an  (Valenciennes en 1994, Grenoble en 2010 et Evian en 2015)
 
 ---
 
 Suite à ces descentes en National, 11 sont revenus en Ligue 2 (55%)
 
 Il leur aura fallu en moyenne 5 ans
-- max: 12 ans (Valenciennes en 1993, qui au passage a aussi été champion de Ligue 2 !)
+- max: 12 ans (Valenciennes en 2006, qui au passage a aussi été champion de Ligue 2 !)
 - min: 2 ans en National
