@@ -50,3 +50,38 @@ Suite à ces descentes en National, 11 sont revenus en Ligue 2 (55%)
 Il leur aura fallu en moyenne 5 ans
 - max: 12 ans (Valenciennes en 2006, qui au passage a aussi été champion de Ligue 2 !)
 - min: 2 ans en National
+
+---
+
+4 rétrogradations administratives parmi ces 81 relégations
+- Bastia 2017
+- Evian 2015
+- Arles 2011
+- Le Mans 2010
+- Toulouse 2001
+- Racing Paris 1990
+
+--- 
+
+15 équipes ne sont plus remontées en Ligue 1 après leur dernière relégation
+- Lorient 2017
+- Nancy 2017
+- GFC Ajaccio 2016
+- Evian 2015
+- Lens 2015
+- Sochaux 2014
+- Valenciennes 2014
+- Auxerre 2012
+- Arles 2011
+- Le Mans 2010
+- Boulogne 2010
+- Grenoble 2010
+- Le Havre 2009
+- Sedan 2007
+- Istres 2005
+- Gueugnon 1996
+- Martigues 1996
+- Toulon 1993
+- Cannes 1992
+- Racing 1990
+- Mulhouse 1990
