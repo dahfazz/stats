@@ -1,16 +1,19 @@
 # Relégations Ligue 1 -> Ligue 2
+Statistiques sur les saisons 1990 -> 2019
+
+---
 
 Relégués en Ligue 2 avec quel nombre de points ?
 - moy: 32 pts
-- max: 44 pts (Monaco 2010/2011)
-- min: 18 pts (Troyes 2015/2016)
+- max: 44 pts (Monaco 2011)
+- min: 18 pts (Troyes 2016)
 
 ---
 
 Une fois relégués, position en Ligue 2 la saison suivante
 moy: 8ème
 
-6 relégués champion en Ligue 2 la saison suivante (6% des relégués)
+6 relégués champion en Ligue 2 la saison suivante (7% des relégués)
 - Metz 2018
 - Caen 2009
 - Lens 2008
